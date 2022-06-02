@@ -1,0 +1,134 @@
+﻿Occupation,year,wage,type,total_hours,wage_adj
+"cargo workers sugar, molasses, and refrigerated cargoes",1928,0.95,hour,44,0.95
+"cargo workers sugar, molasses, and refrigerated cargoes",1929,0.95,hour,44,0.95
+"cargo workers sugar, molasses, and refrigerated cargoes",1930,0.95,hour,44,0.95
+"cargo workers sugar, molasses, and refrigerated cargoes",1931,0.95,hour,44,0.95
+"cargo workers sugar, molasses, and refrigerated cargoes",1932,,,,
+"cargo workers sugar, molasses, and refrigerated cargoes",1933,,,,
+cargo workers grain,1928,1.05,hour,44,1.05
+cargo workers grain,1929,1.05,hour,44,1.05
+cargo workers grain,1930,1.05,hour,44,1.05
+cargo workers grain,1931,1.05,hour,44,1.05
+cargo workers grain,1932,1.05,hour,44,1.05
+cargo workers grain,1933,0.95,hour,44,0.95
+cargo refrigerated cargoes,1928,,,,
+cargo refrigerated cargoes,1929,,,,
+cargo refrigerated cargoes,1930,,,,
+cargo refrigerated cargoes,1931,,,,
+cargo refrigerated cargoes,1932,1.05,hour,44,1.05
+cargo refrigerated cargoes,1933,0.95,hour,44,0.95
+cargo workers cement in bags,1928,,,,
+cargo workers cement in bags,1929,,,,
+cargo workers cement in bags,1930,,,,
+cargo workers cement in bags,1931,,,,
+cargo workers cement in bags,1932,0.90,hour,44,0.90
+cargo workers cement in bags,1933,0.80,hour,44,0.80
+cargo workers coal,1928,,,,
+cargo workers coal,1929,,,,
+cargo workers coal,1930,,,,
+cargo workers coal,1931,,,,
+cargo workers coal,1932,0.90,hour,44,0.90
+cargo workers coal,1933,0.80,hour,44,0.80
+cargo workers wet hides,1928,1.00,hour,44,1.00
+cargo workers wet hides,1929,1.00,hour,44,1.00
+cargo workers wet hides,1930,1.00,hour,44,1.00
+cargo workers wet hides,1931,1.00,hour,44,1.00
+cargo workers wet hides,1932,1.00,hour,44,1.00
+cargo workers wet hides,1933,0.90,hour,44,0.90
+cargo workers sugar molasses,1928,,,,
+cargo workers sugar molasses,1929,,,,
+cargo workers sugar molasses,1930,,,,
+cargo workers sugar molasses,1931,,,,
+cargo workers sugar molasses,1932,0.85,hour,44,0.85
+cargo workers sugar molasses,1933,0.80,hour,44,0.80
+cargo workers coffee,1928,0.90,hour,44,0.90
+cargo workers coffee,1929,0.90,hour,44,0.90
+cargo workers coffee,1930,0.90,hour,44,0.90
+cargo workers coffee,1931,0.90,hour,44,0.90
+cargo workers coffee,1932,0.85,hour,44,0.85
+cargo workers coffee,1933,0.75,hour,44,0.75
+cargo workers bulk cargo,1928,0.90,hour,44,0.90
+cargo workers bulk cargo,1929,0.90,hour,44,0.90
+cargo workers bulk cargo,1930,0.90,hour,44,0.90
+cargo workers bulk cargo,1931,0.90,hour,44,0.90
+cargo workers bulk cargo,1932,0.90,hour,44,0.90
+cargo workers bulk cargo,1933,0.80,hour,44,0.80
+cargo workers general cargo,1928,0.85,hour,44,0.85
+cargo workers general cargo,1929,0.85,hour,44,0.85
+cargo workers general cargo,1930,0.85,hour,44,0.85
+cargo workers general cargo,1931,0.85,hour,44,0.85
+cargo workers general cargo,1932,0.85,hour,44,0.85
+cargo workers general cargo,1933,0.75,hour,44,0.75
+horse cattle and grain fitters,1928,0.90,hour,44,0.90
+horse cattle and grain fitters,1929,1.00,hour,44,1.00
+horse cattle and grain fitters,1930,1.00,hour,44,1.00
+horse cattle and grain fitters,1931,1.00,hour,44,1.00
+horse cattle and grain fitters,1932,0.90,hour,44,0.90
+horse cattle and grain fitters,1933,,,,
+freight tally clerks,1928,6.00,day,44,0.82
+freight tally clerks,1929,6.50,day,44,0.89
+freight tally clerks,1930,6.50,day,44,0.89
+freight tally clerks,1931,6.50,day,44,0.89
+freight tally clerks,1932,6.50,day,44,0.89
+freight tally clerks,1933,5.75,day,44,0.78
+freight handlers dock checkers,1928,5.20,day,48,0.65
+freight handlers dock checkers,1929,5.20,day,48,0.65
+freight handlers dock checkers,1930,5.20,day,48,0.65
+freight handlers dock checkers,1931,5.20,day,48,0.65
+freight handlers dock checkers,1932,4.68,day,48,0.59
+freight handlers dock checkers,1933,4.68,day,48,0.59
+freight handlers dock beltmen,1928,0.55,hour,48,0.55
+freight handlers dock beltmen,1929,0.65,hour,48,0.65
+freight handlers dock beltmen,1930,0.65,hour,48,0.65
+freight handlers dock beltmen,1931,0.65,hour,48,0.65
+freight handlers dock beltmen,1932,0.59,hour,48,0.59
+freight handlers dock beltmen,1933,0.59,hour,48,0.59
+freight handlers dock grain shovelers,1928,0.55,hour,48,0.55
+freight handlers dock grain shovelers,1929,0.65,hour,48,0.65
+freight handlers dock grain shovelers,1930,0.65,hour,48,0.65
+freight handlers dock grain shovelers,1931,0.65,hour,48,0.65
+freight handlers dock grain shovelers,1932,0.59,hour,48,0.59
+freight handlers dock grain shovelers,1933,0.59,hour,48,0.59
+freight handlers dock oilers,1928,0.55,hour,48,0.55
+freight handlers dock oilers,1929,0.65,hour,48,0.65
+freight handlers dock oilers,1930,0.65,hour,48,0.65
+freight handlers dock oilers,1931,0.65,hour,48,0.65
+freight handlers dock oilers,1932,0.59,hour,48,0.59
+freight handlers dock oilers,1933,0.59,hour,48,0.59
+freight handlers dock coopers,1928,0.55,hour,48,0.55
+freight handlers dock coopers,1929,0.55,hour,48,0.55
+freight handlers dock coopers,1930,0.55,hour,48,0.55
+freight handlers dock coopers,1931,0.55,hour,48,0.55
+freight handlers dock coopers,1932,0.50,hour,48,0.50
+freight handlers dock coopers,1933,0.50,hour,48,0.50
+freight handlers dock freight handlers,1928,0.55,hour,48,0.55
+freight handlers dock freight handlers,1929,0.55,hour,48,0.55
+freight handlers dock freight handlers,1930,0.55,hour,48,0.55
+freight handlers dock freight handlers,1931,0.55,hour,48,0.55
+freight handlers dock freight handlers,1932,0.50,hour,48,0.50
+freight handlers dock freight handlers,1933,0.50,hour,48,0.50
+freight handlers dock sealers,1928,0.55,hour,48,0.55
+freight handlers dock sealers,1929,0.55,hour,48,0.55
+freight handlers dock sealers,1930,0.55,hour,48,0.55
+freight handlers dock sealers,1931,0.55,hour,48,0.55
+freight handlers dock sealers,1932,0.50,hour,48,0.50
+freight handlers dock sealers,1933,0.50,hour,48,0.50
+freight handlers dock sweepers,1928,0.45,hour,48,0.45
+freight handlers dock sweepers,1929,0.45,hour,48,0.45
+freight handlers dock sweepers,1930,0.45,hour,48,0.45
+freight handlers dock sweepers,1931,0.45,hour,48,0.45
+freight handlers dock sweepers,1932,0.41,hour,48,0.41
+freight handlers dock sweepers,1933,0.41,hour,48,0.41
+freight handlers dock watchmen,1928,3.50,day,48,0.44
+freight handlers dock watchmen,1929,3.50,day,48,0.44
+freight handlers dock watchmen,1930,3.50,day,48,0.44
+freight handlers dock watchmen,1931,3.50,day,48,0.44
+freight handlers dock watchmen,1932,3.15,day,48,0.39
+freight handlers dock watchmen,1933,3.15,day,48,0.39
+freight handlers railroad dock ,1928,0.55,hour,48,0.55
+freight handlers railroad dock ,1929,0.55,hour,48,0.55
+freight handlers railroad dock ,1930,0.55,hour,48,0.55
+freight handlers railroad dock ,1931,0.55,hour,48,0.55
+freight handlers railroad dock ,1932,0.50,hour,48,0.50
+freight handlers railroad dock ,1933,0.41,hour,48,0.41
+freight handlers railroad dock ,,,,,

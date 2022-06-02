@@ -1,0 +1,55 @@
+﻿occupation,year,wage,type,hours,wage_adj
+Asphalt workers,1928,1.5,hour,44,1.5
+Asphalt workers,1929,1.5,hour,44,1.5
+Asphalt workers,1930,1.5,hour,44,1.5
+Asphalt workers,1931,1.5,hour,44,1.5
+Asphalt workers,1932,$1.25 ,hour,44,1.25
+Asphalt workers,1933,$1.25 ,hour,44,1.25
+Bricklayers,1928,1.4,hour,44,1.4
+Bricklayers,1929,$1.50 ,hour,44,1.5
+Bricklayers,1930,$1.50 ,hour,44,1.5
+Bricklayers,1931,$1.50 ,hour,44,1.5
+Bricklayers,1932,$1.30 ,hour,44,1.3
+Bricklayers,1933,$1.30 ,hour,44,1.3
+Cement finishers,1928,1.38,hour,44,1.38
+Cement finishers,1929,1.38,hour,44,1.38
+Cement finishers,1930,1.38,hour,44,1.38
+Cement finishers,1931,1.38,hour,44,1.38
+Cement finishers,1932,$1.25 ,hour,44,1.25
+Cement finishers,1933,$1.25 ,hour,44,1.25
+Compositions and mastic floor workers,1928,1.5,hour,44,1.5
+Compositions and mastic floor workers,1929,1.5,hour,44,1.5
+Compositions and mastic floor workers,1930,1.5,hour,44,1.5
+Compositions and mastic floor workers,1931,1.5,hour,44,1.5
+Compositions and mastic floor workers,1932,$1.25 ,hour,44,1.25
+Compositions and mastic floor workers,1933,$1.25 ,hour,44,1.25
+Marble setters,1928,1.4,hour,44,1.4
+Marble setters,1929,$1.50 ,hour,44,1.5
+Marble setters,1930,$1.50 ,hour,44,1.5
+Marble setters,1931,$1.50 ,hour,44,1.5
+Marble setters,1932,$1.30 ,hour,44,1.3
+Marble setters,1933,$1.30 ,hour,44,1.3
+Plasterers,1928,1.5,hour,44,1.5
+Plasterers,1929,1.5,hour,44,1.5
+Plasterers,1930,$1.63 ,hour,44,1.63
+Plasterers,1931,$1.63 ,hour,44,1.63
+Plasterers,1932,$1.38 ,hour,44,1.38
+Plasterers,1933,$1.38 ,hour,44,1.38
+Stone masons,1928,1.4,hour,44,1.4
+Stone masons,1929,$1.50 ,hour,44,1.5
+Stone masons,1930,$1.50 ,hour,44,1.5
+Stone masons,1931,$1.50 ,hour,44,1.5
+Stone masons,1932,$1.30 ,hour,44,1.3
+Stone masons,1933,$1.30 ,hour,44,1.3
+Terrazzo workers,1928,1.38,hour,44,1.38
+Terrazzo workers,1929,$1.50 ,hour,44,1.5
+Terrazzo workers,1930,$1.50 ,hour,44,1.5
+Terrazzo workers,1931,$1.50 ,hour,44,1.5
+Terrazzo workers,1932,$1.25 ,hour,44,1.25
+Terrazzo workers,1933,$1.25 ,hour,44,1.25
+Tile layers,1928,1.25,hour,44,1.25
+Tile layers,1929,$1.38 ,hour,44,1.38
+Tile layers,1930,$1.38 ,hour,44,1.38
+Tile layers,1931,$1.38 ,hour,44,1.38
+Tile layers,1932,$1.30 ,hour,44,1.3
+Tile layers,1933,$1.13 ,hour,44,1.13
